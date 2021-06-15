@@ -1,10 +1,7 @@
-# Django Simple E-Commerce Website with Payment
+# Django E-Commerce Website with Payment
 This is a simple e-commerce website built with Django (Python) and PayPal is added as payment processor.
 
 I've made this as a "Jewelry Shop" website but you can make any website you like.
-
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=7IQwbIYfkNI "Django Simple E-Commerce Website")
 
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
@@ -32,20 +29,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 7. Change Password
 8. Reset Password
 
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
 ## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
 
 ## How to Install and Run this project?
 
@@ -96,7 +80,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/vijaythapa333/django-jewelry-shop.git
+$  git clone https://github.com/metalentco/django-jewelry-shop.git
 ```
 
 Then, Enter the project
@@ -104,51 +88,6 @@ Then, Enter the project
 $  cd django-jewelry-shop
 ```
 
-**4. Install Requirements from 'requirements.txt'**
-```python
-$  pip install -r requirements.txt
-```
-
-**5. Add the hosts**
-
-- Got to settings.py file 
-- Then, On allowed hosts, Add [‘*’]. 
-```python
-ALLOWED_HOSTS = ['*']
-```
-*No need to change on Mac.*
 
 
-**6. Now Run Server**
-
-Command for PC:
-```python
-$ python manage.py runserver
-```
-
-Command for Mac:
-```python
-$ python3 manage.py runserver
-```
-
-**7. Login Credentials**
-
-Create Super User (Admin)
-
-Command for PC:
-```
-$  python manage.py createsuperuser
-```
-
-Command for MAC:
-```
-$  python3 manage.py createsuperuser
-```
-Then Add Email, Username and Password
-
-
-
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
 
